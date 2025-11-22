@@ -47,7 +47,7 @@
           </div>
           
           <p style="text-align: center; color: #94a3b8; margin-top: 30px; font-size: 0.9rem;">
-            Figure 1: Visualization of DART-Traj performance in diverse simulation environments.
+            
           </p>
         </div>
 
